@@ -9,5 +9,5 @@
   `django-admin startproject <project name>`
 
 - How to start a django server:
-  - `cd <project name>
+  - `cd <project name>`
   - `python manage.py runserver`
